@@ -1,0 +1,6 @@
+torch==1.10.0
+timm==0.4.12
+tqdm==4.62.3
+torchmetrics==0.11.1
+numpy==1.24.2
+medmnist==2.2.2
